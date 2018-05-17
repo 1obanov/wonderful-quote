@@ -1,4 +1,4 @@
-# vue-cli
+# wonderful-quote
 
 > A Vue.js project
 
