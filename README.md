@@ -20,6 +20,6 @@ npm run build
 
 ### Here's what it looks like:
 
-![Output sample](https://github.com/1obanov/Wonderful-Quotes/blob/master/wonderful-quotes.gif)
+![Output sample](https://github.com/1obanov/wonderful-quote/blob/master/wonderful-quotes.gif)
 
 
