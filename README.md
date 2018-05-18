@@ -1,6 +1,8 @@
-# wonderful-quote
+# Wonderful Quotes
 
-> A Vue.js project
+> My second project built with Vue.js during course "Vue JS 2 - The Complete Guide"
+
+The course is available at [Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/).
 
 ## Build Setup
 
@@ -15,4 +17,9 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### Here's what it looks like:
+
+![Output sample](https://github.com/1obanov/Wonderful-Quotes/blob/master/wonderful-quotes.gif)
+
+
