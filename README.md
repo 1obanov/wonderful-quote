@@ -2,6 +2,8 @@
 
 > My second project built with Vue.js during course "Vue JS 2 - The Complete Guide"
 
+You can see the result in [here](https://wonderful-quote.firebaseapp.com/).
+
 The course is available at [Udemy](https://www.udemy.com/vuejs-2-the-complete-guide/).
 
 ## Build Setup
